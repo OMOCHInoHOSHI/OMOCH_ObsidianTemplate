@@ -1,0 +1,2 @@
+# OMOCH_ObsidianTemplate
+Obsidianのテンプレート
