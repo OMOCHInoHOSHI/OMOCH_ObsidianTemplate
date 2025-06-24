@@ -38,11 +38,13 @@
 ### Templater
 
 Template folder locationに99_共通/テンプレートを指定
-![[Pasted image 20250624230728.png]]
+![image](https://github.com/user-attachments/assets/f72c2844-40bc-46fc-9946-b660ccd28da0)
+
 
 ### Git
 
-![[Pasted image 20250624230830.png]]
+![image](https://github.com/user-attachments/assets/5c2beb3c-dd23-41b2-95d1-4e4185143569)
+
 
 
 
