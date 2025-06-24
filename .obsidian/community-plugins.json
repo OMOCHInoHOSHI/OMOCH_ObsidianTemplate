@@ -1,3 +1,8 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian",
+  "obsidian-auto-link-title",
+  "calendar",
+  "dataview",
+  "buttons"
 ]
